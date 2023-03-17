@@ -1,0 +1,1013 @@
+{
+    "manifest_version": "1.0.9",
+    "title": "Retirement Community",
+    "page_builder": "elementor",
+    "kit_version": "2.0.1",
+    "templates": [
+        {
+            "name": "Home 1",
+            "screenshot": "screenshots\/home-1.jpg",
+            "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 2",
+            "screenshot": "screenshots\/home-2.jpg",
+            "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 3",
+            "screenshot": "screenshots\/home-3.jpg",
+            "source": "templates\/home-3-acb1b142ac874abdcf6c3d5e9d7a62a3.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home 4",
+            "screenshot": "screenshots\/home-4-pro.jpg",
+            "source": "templates\/home-4-46ecbceecb20f2b32cefab96abbaedca.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 5",
+            "screenshot": "screenshots\/home-5-pro.jpg",
+            "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home 6",
+            "screenshot": "screenshots\/home-6-pro.jpg",
+            "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 1",
+            "screenshot": "screenshots\/about-1.jpg",
+            "source": "templates\/about-1-278c9be91ebb98ab0c798d52cf6be891.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 2",
+            "screenshot": "screenshots\/about-2.jpg",
+            "source": "templates\/about-2-a08da4b88cbfa173af06d4df24fca44e.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About 3",
+            "screenshot": "screenshots\/about-3.jpg",
+            "source": "templates\/about-3-e6c9c82dc6f7c779b8a0dab439ee46c2.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About 4",
+            "screenshot": "screenshots\/about-4-pro.jpg",
+            "source": "templates\/about-4-9255738e086cd6d07e9284dd3191afc4.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Accommodation",
+            "screenshot": "screenshots\/accommodation.jpg",
+            "source": "templates\/accommodation-8adf487e67529cf8d9deac3e71e6b471.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Amenities",
+            "screenshot": "screenshots\/amenities.jpg",
+            "source": "templates\/amenities-558b1923d3a5c1927f987d197007b54c.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials-6d978f2648908be76e77e71abcc59c92.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 1",
+            "screenshot": "screenshots\/contact-1.jpg",
+            "source": "templates\/contact-1-a7d86aef77e9289cfc7f61af3514f4f7.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": false
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact 2",
+            "screenshot": "screenshots\/contact-2-pro.jpg",
+            "source": "templates\/contact-2-161c223deb0f3d00a8eea75cf0b16945.json",
+            "preview_url": false,
+            "type": "section",
+            "metadata": {
+                "template_type": "section",
+                "elementor_pro_required": true
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "2.9.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "required_css": [],
+    "images": [
+        {
+            "filename": "architecture-cobblestone-street-daylight-772177.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/architecture-cobblestone-street-daylight-772177-500x315.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-acb1b142ac874abdcf6c3d5e9d7a62a3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-46ecbceecb20f2b32cefab96abbaedca.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-1-278c9be91ebb98ab0c798d52cf6be891.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-a08da4b88cbfa173af06d4df24fca44e.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/about-3-e6c9c82dc6f7c779b8a0dab439ee46c2.json",
+                    "name": "About 3"
+                },
+                {
+                    "source": "templates\/about-4-9255738e086cd6d07e9284dd3191afc4.json",
+                    "name": "About 4"
+                },
+                {
+                    "source": "templates\/accommodation-8adf487e67529cf8d9deac3e71e6b471.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/contact-2-161c223deb0f3d00a8eea75cf0b16945.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 730797,
+            "dimensions": [
+                1920,
+                1208
+            ]
+        },
+        {
+            "filename": "elderly-enjoyment-facial-expression-2050991.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/elderly-enjoyment-facial-expression-2050991-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-acb1b142ac874abdcf6c3d5e9d7a62a3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-1-278c9be91ebb98ab0c798d52cf6be891.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/accommodation-8adf487e67529cf8d9deac3e71e6b471.json",
+                    "name": "Accommodation"
+                }
+            ],
+            "filesize": 394996,
+            "dimensions": [
+                1280,
+                1920
+            ]
+        },
+        {
+            "filename": "adult-casual-chef-1418355.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/adult-casual-chef-1418355-500x346.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-46ecbceecb20f2b32cefab96abbaedca.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-4-9255738e086cd6d07e9284dd3191afc4.json",
+                    "name": "About 4"
+                },
+                {
+                    "source": "templates\/accommodation-8adf487e67529cf8d9deac3e71e6b471.json",
+                    "name": "Accommodation"
+                }
+            ],
+            "filesize": 188922,
+            "dimensions": [
+                1280,
+                886
+            ]
+        },
+        {
+            "filename": "adults-blur-depth-of-field-1869717.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/adults-blur-depth-of-field-1869717-500x348.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-acb1b142ac874abdcf6c3d5e9d7a62a3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-46ecbceecb20f2b32cefab96abbaedca.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/about-4-9255738e086cd6d07e9284dd3191afc4.json",
+                    "name": "About 4"
+                },
+                {
+                    "source": "templates\/amenities-558b1923d3a5c1927f987d197007b54c.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 109376,
+            "dimensions": [
+                1280,
+                891
+            ]
+        },
+        {
+            "filename": "vlad-sargu-479334-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/vlad-sargu-479334-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-46ecbceecb20f2b32cefab96abbaedca.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-2-a08da4b88cbfa173af06d4df24fca44e.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/about-3-e6c9c82dc6f7c779b8a0dab439ee46c2.json",
+                    "name": "About 3"
+                },
+                {
+                    "source": "templates\/amenities-558b1923d3a5c1927f987d197007b54c.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 273457,
+            "dimensions": [
+                1800,
+                1200
+            ]
+        },
+        {
+            "filename": "elien-dumon-635501-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/elien-dumon-635501-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-46ecbceecb20f2b32cefab96abbaedca.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/amenities-558b1923d3a5c1927f987d197007b54c.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 214759,
+            "dimensions": [
+                1800,
+                1200
+            ]
+        },
+        {
+            "filename": "vita-vilcina-3217-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/vita-vilcina-3217-unsplash-500x335.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-4-46ecbceecb20f2b32cefab96abbaedca.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-4-9255738e086cd6d07e9284dd3191afc4.json",
+                    "name": "About 4"
+                }
+            ],
+            "filesize": 347245,
+            "dimensions": [
+                1800,
+                1205
+            ]
+        },
+        {
+            "filename": "adult-anniversary-care-1449049.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/adult-anniversary-care-1449049-500x350.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-1-f94528fc61a5fda87489f260f7a65fe8.json",
+                    "name": "Home 1"
+                },
+                {
+                    "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-acb1b142ac874abdcf6c3d5e9d7a62a3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-46ecbceecb20f2b32cefab96abbaedca.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/about-2-a08da4b88cbfa173af06d4df24fca44e.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/about-3-e6c9c82dc6f7c779b8a0dab439ee46c2.json",
+                    "name": "About 3"
+                },
+                {
+                    "source": "templates\/about-4-9255738e086cd6d07e9284dd3191afc4.json",
+                    "name": "About 4"
+                },
+                {
+                    "source": "templates\/contact-2-161c223deb0f3d00a8eea75cf0b16945.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 103997,
+            "dimensions": [
+                1280,
+                895
+            ]
+        },
+        {
+            "filename": "marisa-howenstine-1070388-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/marisa-howenstine-1070388-unsplash-500x674.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-acb1b142ac874abdcf6c3d5e9d7a62a3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-46ecbceecb20f2b32cefab96abbaedca.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-3-e6c9c82dc6f7c779b8a0dab439ee46c2.json",
+                    "name": "About 3"
+                },
+                {
+                    "source": "templates\/about-4-9255738e086cd6d07e9284dd3191afc4.json",
+                    "name": "About 4"
+                },
+                {
+                    "source": "templates\/testimonials-6d978f2648908be76e77e71abcc59c92.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/contact-1-a7d86aef77e9289cfc7f61af3514f4f7.json",
+                    "name": "Contact 1"
+                },
+                {
+                    "source": "templates\/contact-2-161c223deb0f3d00a8eea75cf0b16945.json",
+                    "name": "Contact 2"
+                }
+            ],
+            "filesize": 528915,
+            "dimensions": [
+                1800,
+                2426
+            ]
+        },
+        {
+            "filename": "action-adult-care-339620.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/action-adult-care-339620-500x281.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-acb1b142ac874abdcf6c3d5e9d7a62a3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-4-46ecbceecb20f2b32cefab96abbaedca.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 162636,
+            "dimensions": [
+                1280,
+                720
+            ]
+        },
+        {
+            "filename": "damir-bosnjak-366766-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/damir-bosnjak-366766-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-1-278c9be91ebb98ab0c798d52cf6be891.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/accommodation-8adf487e67529cf8d9deac3e71e6b471.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/testimonials-6d978f2648908be76e77e71abcc59c92.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 214528,
+            "dimensions": [
+                1800,
+                1200
+            ]
+        },
+        {
+            "filename": "oren-atias-415730-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/oren-atias-415730-unsplash-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-4-46ecbceecb20f2b32cefab96abbaedca.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/testimonials-6d978f2648908be76e77e71abcc59c92.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 569058,
+            "dimensions": [
+                1800,
+                2700
+            ]
+        },
+        {
+            "filename": "aerial-shot-architecture-bird-s-eye-view-1131868.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/aerial-shot-architecture-bird-s-eye-view-1131868-500x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-3-acb1b142ac874abdcf6c3d5e9d7a62a3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-2-a08da4b88cbfa173af06d4df24fca44e.json",
+                    "name": "About 2"
+                }
+            ],
+            "filesize": 892598,
+            "dimensions": [
+                1920,
+                1440
+            ]
+        },
+        {
+            "filename": "esther-town-492626-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/esther-town-492626-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-2-c317ce7951e9cf54dd0fd24d35bb62ac.json",
+                    "name": "Home 2"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-4-9255738e086cd6d07e9284dd3191afc4.json",
+                    "name": "About 4"
+                }
+            ],
+            "filesize": 139239,
+            "dimensions": [
+                1800,
+                1197
+            ]
+        },
+        {
+            "filename": "adult-bench-blur-1652340.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/adult-bench-blur-1652340-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-3-acb1b142ac874abdcf6c3d5e9d7a62a3.json",
+                    "name": "Home 3"
+                },
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-1-278c9be91ebb98ab0c798d52cf6be891.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/amenities-558b1923d3a5c1927f987d197007b54c.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 316870,
+            "dimensions": [
+                1920,
+                1280
+            ]
+        },
+        {
+            "filename": "joyce-huis-280682-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/joyce-huis-280682-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-4-46ecbceecb20f2b32cefab96abbaedca.json",
+                    "name": "Home 4"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/about-1-278c9be91ebb98ab0c798d52cf6be891.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-a08da4b88cbfa173af06d4df24fca44e.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/about-4-9255738e086cd6d07e9284dd3191afc4.json",
+                    "name": "About 4"
+                },
+                {
+                    "source": "templates\/accommodation-8adf487e67529cf8d9deac3e71e6b471.json",
+                    "name": "Accommodation"
+                },
+                {
+                    "source": "templates\/testimonials-6d978f2648908be76e77e71abcc59c92.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 501561,
+            "dimensions": [
+                1800,
+                1200
+            ]
+        },
+        {
+            "filename": "collaboration-community-cooperation-461049.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/collaboration-community-cooperation-461049-500x405.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                }
+            ],
+            "filesize": 296137,
+            "dimensions": [
+                1280,
+                1036
+            ]
+        },
+        {
+            "filename": "anthony-metcalfe-580436-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/anthony-metcalfe-580436-unsplash-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                }
+            ],
+            "filesize": 234407,
+            "dimensions": [
+                1800,
+                1200
+            ]
+        },
+        {
+            "filename": "adult-arms-raised-blur-1786244.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/adult-arms-raised-blur-1786244-500x331.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-5-4eac171eb5017e8729ad787773182f47.json",
+                    "name": "Home 5"
+                },
+                {
+                    "source": "templates\/home-6-f01da5d65ede3a4c44fd585bb4141735.json",
+                    "name": "Home 6"
+                },
+                {
+                    "source": "templates\/amenities-558b1923d3a5c1927f987d197007b54c.json",
+                    "name": "Amenities"
+                },
+                {
+                    "source": "templates\/testimonials-6d978f2648908be76e77e71abcc59c92.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 444673,
+            "dimensions": [
+                1920,
+                1271
+            ]
+        },
+        {
+            "filename": "martin-turgoose-770641-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/martin-turgoose-770641-unsplash-500x334.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-278c9be91ebb98ab0c798d52cf6be891.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/accommodation-8adf487e67529cf8d9deac3e71e6b471.json",
+                    "name": "Accommodation"
+                }
+            ],
+            "filesize": 450654,
+            "dimensions": [
+                1800,
+                1201
+            ]
+        },
+        {
+            "filename": "beautiful-blooming-branches-2253911.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/beautiful-blooming-branches-2253911-500x624.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-278c9be91ebb98ab0c798d52cf6be891.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-a08da4b88cbfa173af06d4df24fca44e.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/about-4-9255738e086cd6d07e9284dd3191afc4.json",
+                    "name": "About 4"
+                },
+                {
+                    "source": "templates\/amenities-558b1923d3a5c1927f987d197007b54c.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 925093,
+            "dimensions": [
+                1280,
+                1598
+            ]
+        },
+        {
+            "filename": "blur-casual-coffee-712513.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/blur-casual-coffee-712513-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-1-278c9be91ebb98ab0c798d52cf6be891.json",
+                    "name": "About 1"
+                },
+                {
+                    "source": "templates\/about-2-a08da4b88cbfa173af06d4df24fca44e.json",
+                    "name": "About 2"
+                },
+                {
+                    "source": "templates\/about-3-e6c9c82dc6f7c779b8a0dab439ee46c2.json",
+                    "name": "About 3"
+                },
+                {
+                    "source": "templates\/amenities-558b1923d3a5c1927f987d197007b54c.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 138822,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "apartment-bed-bedroom-2029731.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/apartment-bed-bedroom-2029731-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-8adf487e67529cf8d9deac3e71e6b471.json",
+                    "name": "Accommodation"
+                }
+            ],
+            "filesize": 197869,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "apartment-architecture-fireplace-1608175.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/apartment-architecture-fireplace-1608175-500x459.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-8adf487e67529cf8d9deac3e71e6b471.json",
+                    "name": "Accommodation"
+                }
+            ],
+            "filesize": 286807,
+            "dimensions": [
+                1280,
+                1175
+            ]
+        },
+        {
+            "filename": "apartment-architecture-chairs-373548.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/apartment-architecture-chairs-373548-500x327.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-8adf487e67529cf8d9deac3e71e6b471.json",
+                    "name": "Accommodation"
+                }
+            ],
+            "filesize": 148337,
+            "dimensions": [
+                1280,
+                837
+            ]
+        },
+        {
+            "filename": "ceiling-chairs-contemporary-1864932.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/ceiling-chairs-contemporary-1864932-500x333.jpg",
+            "templates": [
+                {
+                    "source": "templates\/accommodation-8adf487e67529cf8d9deac3e71e6b471.json",
+                    "name": "Accommodation"
+                }
+            ],
+            "filesize": 232353,
+            "dimensions": [
+                1280,
+                853
+            ]
+        },
+        {
+            "filename": "matt-jones-38742-unsplash.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/matt-jones-38742-unsplash-500x394.jpg",
+            "templates": [
+                {
+                    "source": "templates\/amenities-558b1923d3a5c1927f987d197007b54c.json",
+                    "name": "Amenities"
+                }
+            ],
+            "filesize": 462887,
+            "dimensions": [
+                1800,
+                1418
+            ]
+        },
+        {
+            "filename": "beautiful-elderly-happiness-2050975.jpg",
+            "thumbnail_url": "https:\/\/wp.envatoextensions.com\/kit-167\/wp-content\/uploads\/sites\/163\/2019\/04\/beautiful-elderly-happiness-2050975-500x750.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials-6d978f2648908be76e77e71abcc59c92.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 946238,
+            "dimensions": [
+                1920,
+                2880
+            ]
+        }
+    ]
+}
